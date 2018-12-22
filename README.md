@@ -1,2 +1,6 @@
 # aoc2018
 Advent of Code 2018
+
+https://adventofcode.com/2018
+
+Considering it's already the 21st I doubt I will save christmas, but maybe we'll do a couple puzzles
